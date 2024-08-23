@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🌱 I’m currently learning to build websites with [Next.js](https://github.com/vercel/next.js) and [Astro](https://github.com/withastro/astro).
+
+💻   🇫🇷   ⚡
+
 <!--
 **exhotik/exhotik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
